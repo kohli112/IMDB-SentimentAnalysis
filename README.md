@@ -1,2 +1,2 @@
 # IMDB-SentimentAnalysis
-Python
+Sentiment Analysis on IMDB using LSTM model. 
